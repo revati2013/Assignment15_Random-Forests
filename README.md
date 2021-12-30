@@ -6,7 +6,6 @@ treating those who have taxable_income <= 30000 as "Risky" and others are "Good"
 2.
 Random Forest
  
-Assignment
 About the data: 
 Let’s consider a Company dataset with around 10 variables and 400 records. 
 The attributes are as follows: 
